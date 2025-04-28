@@ -1,0 +1,10 @@
+firecrawl-py
+langchain
+langgraph
+openai
+python-dotenv
+pydantic
+tqdm
+requests
+aiohttp
+nest-asyncio
